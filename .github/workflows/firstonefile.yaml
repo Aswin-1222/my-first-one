@@ -3,7 +3,7 @@ name: polaris-data-processing
 on:
   push:
     branches:
-      - dev2
+      - main
       
 
 jobs:
